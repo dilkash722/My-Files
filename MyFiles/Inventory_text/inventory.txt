@@ -1,0 +1,5 @@
+1,5 star,5,150
+2,KitKat,10,200
+3,DairyMilk,20,300
+4,Perk,5,250
+5,Milky,15,350
